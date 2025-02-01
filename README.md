@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SyedMustafa20
-- 👀 I’m interested in developing applications for general purpose. I have hands-on experience in the android-native web development.
 - 🌱 I’m currently working in native android development for the past 1 year and trying to broaden my experience bucket in the app development domain
 - 💞️ I’m looking to collaborate on projects that are related to android/web development.
 - 📫 How to reach me samustafa290@gmail.com
