@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedMustafa20
-- 🌱 I’m currently working in native android development for the past 1 year and trying to broaden my experience bucket in the app development domain
+- 🌱 I’m currently working in native android development for the past 2 years and trying to broaden my experience bucket in the app development domain
 - 💞️ I’m looking to collaborate on projects that are related to android/web development.
 - 📫 How to reach me samustafa290@gmail.com
 - ⚡ Fun fact: None about me :(
